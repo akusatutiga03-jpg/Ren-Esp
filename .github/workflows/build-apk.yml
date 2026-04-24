@@ -34,10 +34,10 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: app-release
-        path: app/build/outputs/apk/release/app-release.apk
+        path: app/build/outputs/apk/release/app-release-unsigned.apk
         
     - name: Get APK info
       run: |
         ls -lh app/build/outputs/apk/release/
         echo "APK Size:"
-        du -h app/build/outputs/apk/release/app-release.apk
+        du -h app/build/outputs/apk/release/app-release-unsigned.apk
