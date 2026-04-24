@@ -70,7 +70,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## Device Compatibility
 
-The app dynamically reads camera FOV, sensor orientation, and screen dimensions at runtime. Tested on Samsung Galaxy A36 but designed to work on any Android device with a back camera.
+The app dynamically reads camera FOV, sensor orientation, and screen dimensions at runtime. Tested on Samsung Galaxy A36 and Itel p55 5g and Infinix smart 10 but designed to work on any Android device with a back camera.
 
 ## License
 
