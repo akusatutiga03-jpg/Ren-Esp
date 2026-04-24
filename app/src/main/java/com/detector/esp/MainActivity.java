@@ -41,7 +41,7 @@ import java.util.Locale;
 /**
  * 主 Activity — 实时 ESP 检测 + 设置
  */
-public class MainActivity extends Activity implements LocationListener {
+public class MainActivity extends Activity {
 
     private static final String TAG = "MainActivity";
     private static final int CAMERA_PERMISSION_CODE = 100;
