@@ -18,7 +18,7 @@ Real-time object detection Android app with game-style ESP (Extra Sensory Percep
 - **GPS HUD** — Real-time coordinates, speed, satellite count
 - **Satellite Monitor** — Sky plot visualization of all visible GNSS satellites
 - **Category Filtering** — Toggle Person / Vehicle / Animal / Object detection
-- **Bilingual** — Chinese / English language switch
+- **Bilingual** — Chinese / English / Indonesian language switch
 - **Boot Animation** — Cyberpunk-style splash screen with real hardware info
 
 ## Architecture
