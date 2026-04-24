@@ -1,10 +1,6 @@
-# ESP Detector V2
+# ESP Detector
 
 Real-time object detection Android app with game-style ESP (Extra Sensory Perception) overlay.
-
-## Download
-
-**[Download APK (v2.0)](https://github.com/MichaelXZY6/ESP-Detector/releases/latest)**
 
 > Android 8.0+ required. No root needed.
 
@@ -62,7 +58,7 @@ OverlayView (Choreographer 30fps, interpolation, ESP rendering)
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/ESP-Detector.git
+git clone https://github.com/RenzMc/Ren-Esp.git
 cd ESP-Detector
 
 # Build
@@ -75,10 +71,6 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 ## Device Compatibility
 
 The app dynamically reads camera FOV, sensor orientation, and screen dimensions at runtime. Tested on Samsung Galaxy A36 but designed to work on any Android device with a back camera.
-
-## Screenshots
-
-_Coming soon_
 
 ## License
 
